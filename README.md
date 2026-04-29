@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-👉 https://healthcare-premium-prediction-project-new.streamlit.app/
+👉 https://healthcare-premium-prediction-new-app.streamlit.app/
 
 ---
 
